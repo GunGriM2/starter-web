@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Maksim Grin     maks.grin.2016@gmail.com    @GunGriM2
 
 # THANKS
 
